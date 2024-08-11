@@ -1,6 +1,12 @@
 # MeshtasticStick
 
+![image](./doc/1.jpg)
+
+![image](./doc/2.jpg)
+
+
 ![image](./doc/ver13d.png)
+
 1. 支持太陽能（0.3V~5.5V）
 2. 支持寬壓輸入（4.5V~28V）
 3. TypeC 供電(輸入最少5V/1.5A)，如無充電狀況下約0.8A
@@ -37,7 +43,7 @@
 - [ ] 確認4.2v供電
 
 
-#ref
+# ref
 
 - 太陽能設計文件
 https://static5.arrow.com/pdfs/2011/10/8/19/12/15/660/st_/auto/steval-isv012v1_schematic.pdf

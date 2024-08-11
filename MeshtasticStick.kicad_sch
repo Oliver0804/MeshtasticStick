@@ -10269,7 +10269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00bf06e9-3450-4778-b77f-af90470f69ad")
-		(property "Reference" "J5"
+		(property "Reference" "J1"
 			(at 63.5 22.86 0)
 			(effects
 				(font
@@ -10494,7 +10494,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "J5")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -10510,7 +10510,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "010e558c-bf69-4690-8eae-6322b6c1ec39")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR043"
 			(at 143.51 271.78 0)
 			(effects
 				(font
@@ -10560,7 +10560,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR020")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -10576,7 +10576,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "050d9b7a-b5be-406b-a6ea-b47da6415b32")
-		(property "Reference" "C11"
+		(property "Reference" "C1"
 			(at 179.07 34.2899 0)
 			(effects
 				(font
@@ -10630,7 +10630,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C11")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -10716,7 +10716,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09bfdb2d-262d-4145-b396-6d06b3a20771")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR01"
 			(at 138.43 49.53 0)
 			(effects
 				(font
@@ -10766,7 +10766,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR023")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -10782,7 +10782,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10f14fcd-1e7b-419e-bf1c-5f99b06cc601")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR010"
 			(at 226.06 109.22 0)
 			(effects
 				(font
@@ -10832,7 +10832,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR02")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -10847,7 +10847,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "118e8f82-08c1-4572-9c30-5c853684230c")
-		(property "Reference" "R7"
+		(property "Reference" "R24"
 			(at 100.3299 247.65 0)
 			(effects
 				(font
@@ -10901,7 +10901,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R7")
+					(reference "R24")
 					(unit 1)
 				)
 			)
@@ -10917,7 +10917,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1447ee3e-3ffc-4651-9d51-ad3a521e43e8")
-		(property "Reference" "U7"
+		(property "Reference" "U5"
 			(at 93.98 152.4 0)
 			(effects
 				(font
@@ -11105,7 +11105,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "U7")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -11121,7 +11121,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "151aaf8f-981b-49cb-82f5-f19a138ab289")
-		(property "Reference" "U4"
+		(property "Reference" "U1"
 			(at 158.75 24.13 0)
 			(effects
 				(font
@@ -11182,7 +11182,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "U4")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -11198,7 +11198,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1934f637-a374-4f18-9b67-1c36dfef6c2e")
-		(property "Reference" "C19"
+		(property "Reference" "C12"
 			(at 44.45 162.5599 0)
 			(effects
 				(font
@@ -11252,7 +11252,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C19")
+					(reference "C12")
 					(unit 1)
 				)
 			)
@@ -11268,7 +11268,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1cf7cec9-a2a2-4a5a-bd2d-85c8d52030ad")
-		(property "Reference" "C13"
+		(property "Reference" "C2"
 			(at 142.24 35.5599 0)
 			(effects
 				(font
@@ -11322,7 +11322,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C13")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -11338,7 +11338,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d5f0995-5d46-4967-8fef-7f43d7be0971")
-		(property "Reference" "R27"
+		(property "Reference" "R18"
 			(at 63.5 191.7699 0)
 			(effects
 				(font
@@ -11392,7 +11392,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R27")
+					(reference "R18")
 					(unit 1)
 				)
 			)
@@ -11478,7 +11478,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "216762e2-5e22-4ebc-b475-6742d4a55f70")
-		(property "Reference" "J1"
+		(property "Reference" "J2"
 			(at 269.24 29.21 0)
 			(effects
 				(font
@@ -11554,7 +11554,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "J1")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -11570,7 +11570,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "24cb8c62-3154-4732-9163-971912e1af92")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR08"
 			(at 378.46 64.77 0)
 			(effects
 				(font
@@ -11621,7 +11621,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR07")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -11637,7 +11637,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27a58afa-b08b-429b-84ef-a46885efb22b")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR013"
 			(at 372.11 121.92 0)
 			(effects
 				(font
@@ -11687,7 +11687,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR04")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -11703,7 +11703,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "282cacdb-8e94-43bc-bf3d-57d4b3362748")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR018"
 			(at 121.92 143.51 0)
 			(effects
 				(font
@@ -11753,7 +11753,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR024")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -11769,7 +11769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b030f78-35fb-41fa-87e6-59726a3e5db2")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR036"
 			(at 77.47 218.44 0)
 			(effects
 				(font
@@ -11819,7 +11819,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR041")
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
@@ -11835,7 +11835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ceae119-814d-40fe-8281-2aa939ee2770")
-		(property "Reference" "C4"
+		(property "Reference" "C10"
 			(at 285.75 128.2699 0)
 			(effects
 				(font
@@ -11889,7 +11889,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C4")
+					(reference "C10")
 					(unit 1)
 				)
 			)
@@ -11905,7 +11905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2dd9f20b-ff64-4d8e-ab69-c478d5dd1946")
-		(property "Reference" "L2"
+		(property "Reference" "L3"
 			(at 111.76 231.14 90)
 			(effects
 				(font
@@ -11957,7 +11957,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "L2")
+					(reference "L3")
 					(unit 1)
 				)
 			)
@@ -11973,7 +11973,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "302e84aa-8c23-4214-9cbf-b5eeb37afb03")
-		(property "Reference" "#PWR035"
+		(property "Reference" "#PWR032"
 			(at 118.11 205.74 0)
 			(effects
 				(font
@@ -12023,7 +12023,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR035")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -12039,7 +12039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30f1099a-b0db-4e0a-a956-c75bcded0c7c")
-		(property "Reference" "R16"
+		(property "Reference" "R11"
 			(at 148.59 129.5399 0)
 			(effects
 				(font
@@ -12093,7 +12093,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R16")
+					(reference "R11")
 					(unit 1)
 				)
 			)
@@ -12109,7 +12109,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "335393d9-0b87-47c4-8f8f-88db31ad39fa")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR06"
 			(at 83.82 59.69 0)
 			(effects
 				(font
@@ -12159,7 +12159,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR011")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -12175,7 +12175,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3557eb8f-72c0-4e95-bc8c-69e684151f52")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR015"
 			(at 130.81 132.08 0)
 			(effects
 				(font
@@ -12225,7 +12225,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR028")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -12241,7 +12241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3939aee6-05cf-4d4e-b364-3f967cf5bf64")
-		(property "Reference" "R24"
+		(property "Reference" "R21"
 			(at 80.01 204.4699 0)
 			(effects
 				(font
@@ -12295,7 +12295,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R24")
+					(reference "R21")
 					(unit 1)
 				)
 			)
@@ -12311,7 +12311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a6057b4-6bdf-48e3-80c7-d9704bb5ab5e")
-		(property "Reference" "U2"
+		(property "Reference" "U3"
 			(at 339.09 105.41 0)
 			(effects
 				(font
@@ -12543,7 +12543,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "U2")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -12559,7 +12559,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d730190-6638-4c13-a4e4-efa923eb8551")
-		(property "Reference" "C9"
+		(property "Reference" "C20"
 			(at 137.16 241.2999 0)
 			(effects
 				(font
@@ -12613,7 +12613,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C9")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -12629,7 +12629,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4224d32e-0cc9-4ff6-abd0-c0c002e35399")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR041"
 			(at 40.64 266.7 0)
 			(effects
 				(font
@@ -12679,7 +12679,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR018")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -12695,7 +12695,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "42ef2b5f-3fbb-4433-98a1-5b5797a43c7e")
-		(property "Reference" "C7"
+		(property "Reference" "C18"
 			(at 64.77 241.2999 0)
 			(effects
 				(font
@@ -12749,7 +12749,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C7")
+					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -12839,7 +12839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "496d7bce-2198-44e6-8da5-e695fd17b3f5")
-		(property "Reference" "R20"
+		(property "Reference" "R15"
 			(at 127 181.6099 0)
 			(effects
 				(font
@@ -12893,7 +12893,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R20")
+					(reference "R15")
 					(unit 1)
 				)
 			)
@@ -12908,7 +12908,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "49962b25-9b6f-4dd3-b668-ac45ffaf89f0")
-		(property "Reference" "R22"
+		(property "Reference" "R14"
 			(at 45.974 183.134 90)
 			(effects
 				(font
@@ -12962,7 +12962,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R22")
+					(reference "R14")
 					(unit 1)
 				)
 			)
@@ -12978,7 +12978,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4a3c11f0-be5e-473e-ab46-05a16f246231")
-		(property "Reference" "R21"
+		(property "Reference" "R19"
 			(at 127 191.7699 0)
 			(effects
 				(font
@@ -13032,7 +13032,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R21")
+					(reference "R19")
 					(unit 1)
 				)
 			)
@@ -13047,7 +13047,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ad9b28a-d39f-44e9-ae81-5d05d5f7c41c")
-		(property "Reference" "#PWR034"
+		(property "Reference" "#PWR024"
 			(at 49.53 179.07 0)
 			(effects
 				(font
@@ -13097,7 +13097,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR034")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -13113,7 +13113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "505e485b-50fa-40a7-b311-9415e92d9501")
-		(property "Reference" "R26"
+		(property "Reference" "R17"
 			(at 67.31 181.61 90)
 			(effects
 				(font
@@ -13165,7 +13165,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R26")
+					(reference "R17")
 					(unit 1)
 				)
 			)
@@ -13181,7 +13181,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "58f39726-67d6-4a54-bdac-c284095e36ed")
-		(property "Reference" "C20"
+		(property "Reference" "C13"
 			(at 53.34 167.6399 0)
 			(effects
 				(font
@@ -13235,7 +13235,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C20")
+					(reference "C13")
 					(unit 1)
 				)
 			)
@@ -13251,7 +13251,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59767199-731d-4d3d-ae96-782ed79f7168")
-		(property "Reference" "U6"
+		(property "Reference" "U2"
 			(at 95.25 107.95 0)
 			(effects
 				(font
@@ -13442,7 +13442,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "U6")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -13458,7 +13458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ea20608-7688-4205-b7c9-95a040c3e4e4")
-		(property "Reference" "R13"
+		(property "Reference" "R7"
 			(at 67.31 104.14 90)
 			(effects
 				(font
@@ -13510,7 +13510,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R13")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -13526,7 +13526,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ec3461d-f39d-4cf7-9e9f-6f628dd22929")
-		(property "Reference" "C17"
+		(property "Reference" "C3"
 			(at 100.33 85.0899 0)
 			(effects
 				(font
@@ -13580,7 +13580,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C17")
+					(reference "C3")
 					(unit 1)
 				)
 			)
@@ -13596,7 +13596,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fc48b2c-1d22-4b73-ae91-6a7a1dd00a7e")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR031"
 			(at 60.96 205.74 0)
 			(effects
 				(font
@@ -13646,7 +13646,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR043")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -13662,7 +13662,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5fd40472-9707-43a2-a77b-04e642eece6a")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR025"
 			(at 59.69 172.72 0)
 			(effects
 				(font
@@ -13713,7 +13713,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR038")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -13729,7 +13729,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60ab8403-0019-4c13-9910-d4add78e8b38")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR030"
 			(at 111.76 196.85 0)
 			(effects
 				(font
@@ -13779,7 +13779,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR025")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -13794,7 +13794,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "62758a86-5d7e-4a0f-8fce-3f9d608068fb")
-		(property "Reference" "C21"
+		(property "Reference" "C15"
 			(at 119.126 185.166 0)
 			(effects
 				(font
@@ -13848,7 +13848,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C21")
+					(reference "C15")
 					(unit 1)
 				)
 			)
@@ -13864,7 +13864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "63773d14-8340-4a22-b8f4-e582e078d3eb")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR023"
 			(at 59.69 167.64 0)
 			(effects
 				(font
@@ -13915,7 +13915,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR037")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -13999,7 +13999,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "668f5fa8-05c4-4095-8721-508c45e2dfaf")
-		(property "Reference" "J2"
+		(property "Reference" "J3"
 			(at 386.08 41.9099 0)
 			(effects
 				(font
@@ -14059,7 +14059,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "J2")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -14075,7 +14075,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67d25b69-b8ce-4024-9b55-58f5f9686375")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR011"
 			(at 233.68 109.22 0)
 			(effects
 				(font
@@ -14125,7 +14125,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR01")
+					(reference "#PWR011")
 					(unit 1)
 				)
 			)
@@ -14141,7 +14141,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "692ff9ff-7dec-4f7b-87c0-fb4c5fbd9551")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR021"
 			(at 359.41 147.32 0)
 			(effects
 				(font
@@ -14191,7 +14191,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR03")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -14206,7 +14206,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7201307f-0013-4fb0-974b-db41446dcc3c")
-		(property "Reference" "R6"
+		(property "Reference" "R23"
 			(at 43.18 242.5699 0)
 			(effects
 				(font
@@ -14260,7 +14260,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R6")
+					(reference "R23")
 					(unit 1)
 				)
 			)
@@ -14276,7 +14276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "740f2ef4-2e64-439d-a5b2-829ad50b9f42")
-		(property "Reference" "C2"
+		(property "Reference" "C5"
 			(at 237.49 97.7899 0)
 			(effects
 				(font
@@ -14330,7 +14330,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C2")
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -14484,7 +14484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d42b09d-3215-4240-8b3a-e1e618869680")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR038"
 			(at 60.96 252.73 0)
 			(effects
 				(font
@@ -14534,7 +14534,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR015")
+					(reference "#PWR038")
 					(unit 1)
 				)
 			)
@@ -14550,7 +14550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7d5639cc-4eeb-437a-9dd4-ce83444a901e")
-		(property "Reference" "#PWR09"
+		(property "Reference" "#PWR017"
 			(at 281.94 139.7 0)
 			(effects
 				(font
@@ -14600,7 +14600,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR09")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -14686,7 +14686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e77f9bb-1b43-47c8-89bb-3a7bc622a2db")
-		(property "Reference" "U3"
+		(property "Reference" "U6"
 			(at 82.55 228.6 0)
 			(effects
 				(font
@@ -14756,7 +14756,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "U3")
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -14772,7 +14772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8022bba3-538d-4d7a-9f31-7fd9eceb4262")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR04"
 			(at 368.3 46.99 0)
 			(effects
 				(font
@@ -14823,7 +14823,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR05")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -14839,7 +14839,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8294333b-653e-4f07-9974-3141c36e1923")
-		(property "Reference" "#PWR010"
+		(property "Reference" "#PWR016"
 			(at 271.78 139.7 0)
 			(effects
 				(font
@@ -14889,7 +14889,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR010")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -14905,7 +14905,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84283037-712c-4577-adbb-ebdac4fdf001")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR05"
 			(at 35.56 58.42 0)
 			(effects
 				(font
@@ -14955,7 +14955,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR013")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -14971,7 +14971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84de1e87-a0dd-4091-8e32-92f5f3bd1010")
-		(property "Reference" "R3"
+		(property "Reference" "R12"
 			(at 215.9 151.13 90)
 			(effects
 				(font
@@ -15023,7 +15023,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R3")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -15039,7 +15039,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "850a08f9-2b83-47cf-a7e9-53c9fe54f925")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR09"
 			(at 368.3 67.31 0)
 			(effects
 				(font
@@ -15090,7 +15090,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR08")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -15106,7 +15106,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90265acf-4afa-4c7f-83c3-f7f11b1f10d0")
-		(property "Reference" "R1"
+		(property "Reference" "R3"
 			(at 91.44 46.9899 0)
 			(effects
 				(font
@@ -15160,7 +15160,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R1")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -15243,7 +15243,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "94532c2c-9cc2-4cbe-8f8c-f932525cb5dd")
-		(property "Reference" "R5"
+		(property "Reference" "R22"
 			(at 146.05 241.2999 0)
 			(effects
 				(font
@@ -15297,7 +15297,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R5")
+					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -15313,7 +15313,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "98b28db9-a1e4-4503-8f7b-3b7dda872ccc")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR02"
 			(at 158.75 49.53 0)
 			(effects
 				(font
@@ -15363,7 +15363,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR021")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -15379,7 +15379,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9975d0fd-efd2-45cf-9595-dde1f23e4a20")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR037"
 			(at 52.07 252.73 0)
 			(effects
 				(font
@@ -15429,7 +15429,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR014")
+					(reference "#PWR037")
 					(unit 1)
 				)
 			)
@@ -15445,7 +15445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a02d79c9-9247-41ed-b833-d3cb74348943")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR026"
 			(at 134.62 186.69 0)
 			(effects
 				(font
@@ -15495,7 +15495,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR032")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -15511,7 +15511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a08edbf8-66cd-4ee0-956c-8b781ca8c311")
-		(property "Reference" "U1"
+		(property "Reference" "U4"
 			(at 244.7641 203.2 0)
 			(effects
 				(font
@@ -15742,7 +15742,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "U1")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -15757,7 +15757,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a098106f-a914-4ea2-a029-cb6344199b8a")
-		(property "Reference" "R11"
+		(property "Reference" "R1"
 			(at 144.526 33.02 90)
 			(effects
 				(font
@@ -15809,7 +15809,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R11")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -15825,7 +15825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2853930-b3b6-4bdd-b274-1584a019684f")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR033"
 			(at 124.46 205.74 0)
 			(effects
 				(font
@@ -15875,7 +15875,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR036")
+					(reference "#PWR033")
 					(unit 1)
 				)
 			)
@@ -15959,7 +15959,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a3b052dc-b35a-43a0-8577-3442df43b928")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR040"
 			(at 133.35 252.73 0)
 			(effects
 				(font
@@ -16009,7 +16009,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR017")
+					(reference "#PWR040")
 					(unit 1)
 				)
 			)
@@ -16025,7 +16025,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5a9de14-6140-4e44-a694-89188503e91c")
-		(property "Reference" "C3"
+		(property "Reference" "C9"
 			(at 275.59 128.2699 0)
 			(effects
 				(font
@@ -16079,7 +16079,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C3")
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -16095,7 +16095,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6fac49b-f4c1-4087-9831-4d62edbf6934")
-		(property "Reference" "C6"
+		(property "Reference" "C17"
 			(at 55.88 241.2999 0)
 			(effects
 				(font
@@ -16149,7 +16149,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C6")
+					(reference "C17")
 					(unit 1)
 				)
 			)
@@ -16165,7 +16165,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "abf8d822-d5cd-4fab-845a-0e21c8027c58")
-		(property "Reference" "C18"
+		(property "Reference" "C14"
 			(at 138.43 175.2599 0)
 			(effects
 				(font
@@ -16219,7 +16219,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C18")
+					(reference "C14")
 					(unit 1)
 				)
 			)
@@ -16235,7 +16235,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ac8611fd-5b5c-4b53-af17-94582f4f0bd1")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR014"
 			(at 121.92 132.08 0)
 			(effects
 				(font
@@ -16285,7 +16285,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR027")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
@@ -16301,7 +16301,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ace9a925-7a81-49b3-8d4f-81ed0ab4d688")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR03"
 			(at 175.26 49.53 0)
 			(effects
 				(font
@@ -16351,7 +16351,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR022")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -16367,7 +16367,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b25fff5f-8506-414c-b246-e9e88a59a079")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR034"
 			(at 242.57 210.82 0)
 			(effects
 				(font
@@ -16417,7 +16417,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR06")
+					(reference "#PWR034")
 					(unit 1)
 				)
 			)
@@ -16433,7 +16433,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b704b483-b287-414a-b488-bcbdfb32251a")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR028"
 			(at 35.56 182.88 0)
 			(effects
 				(font
@@ -16483,7 +16483,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR039")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -16499,7 +16499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7a57c0c-a4c5-423a-9a5a-d88888eda8d0")
-		(property "Reference" "R15"
+		(property "Reference" "R10"
 			(at 148.59 119.3799 0)
 			(effects
 				(font
@@ -16553,7 +16553,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R15")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -16569,7 +16569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7f0b24a-853b-4ccb-ad18-caf1d414619b")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR022"
 			(at 40.64 173.99 0)
 			(effects
 				(font
@@ -16619,7 +16619,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR033")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -16634,7 +16634,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "becbdf0a-b482-4ce2-b9ce-2b324acc8bcd")
-		(property "Reference" "R9"
+		(property "Reference" "R26"
 			(at 100.3299 255.27 0)
 			(effects
 				(font
@@ -16688,7 +16688,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R9")
+					(reference "R26")
 					(unit 1)
 				)
 			)
@@ -16704,7 +16704,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bf5d7dec-3a01-41e5-b9cd-c66dfd18804d")
-		(property "Reference" "C8"
+		(property "Reference" "C19"
 			(at 128.27 241.2999 0)
 			(effects
 				(font
@@ -16758,7 +16758,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C8")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -16774,7 +16774,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c0dc5b52-7bd4-4393-9035-e71826729c9e")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR020"
 			(at 146.05 143.51 0)
 			(effects
 				(font
@@ -16824,7 +16824,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR029")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -16839,7 +16839,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c373e582-fc55-4787-83e2-ded795d8dd3c")
-		(property "Reference" "D3"
+		(property "Reference" "D2"
 			(at 124.46 119.3799 90)
 			(effects
 				(font
@@ -16893,7 +16893,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "D3")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -16909,7 +16909,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c52a7b6d-7e8d-4afa-837e-f529c5ffe9c2")
-		(property "Reference" "C1"
+		(property "Reference" "C4"
 			(at 229.87 97.7899 0)
 			(effects
 				(font
@@ -16963,7 +16963,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C1")
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -16979,7 +16979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c63771ae-6d90-41ea-af03-3cefa6b0e25a")
-		(property "Reference" "R12"
+		(property "Reference" "R6"
 			(at 55.88 104.14 90)
 			(effects
 				(font
@@ -17031,7 +17031,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R12")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -17047,7 +17047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c69d1850-0a50-458b-9e06-5455a4e8d7bf")
-		(property "Reference" "C10"
+		(property "Reference" "C21"
 			(at 73.66 252.7299 0)
 			(effects
 				(font
@@ -17101,7 +17101,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C10")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -17117,7 +17117,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7e92feb-3862-4218-a9c8-b99c990d074b")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR07"
 			(at 88.9 59.69 0)
 			(effects
 				(font
@@ -17167,7 +17167,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR012")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -17183,7 +17183,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb323dad-5733-40ad-9a7a-141ddca35632")
-		(property "Reference" "C12"
+		(property "Reference" "C7"
 			(at 375.92 110.4899 0)
 			(effects
 				(font
@@ -17237,7 +17237,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C12")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -17253,7 +17253,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cce870b9-e797-4759-b909-19a41a56e384")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR029"
 			(at 35.56 187.96 0)
 			(effects
 				(font
@@ -17303,7 +17303,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR042")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -17318,7 +17318,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d016b432-bd4a-465c-bd71-46861b49c51f")
-		(property "Reference" "C16"
+		(property "Reference" "C11"
 			(at 140.716 128.016 0)
 			(effects
 				(font
@@ -17372,7 +17372,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C16")
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -17456,7 +17456,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d3f1ef44-6eaf-4adc-95d9-25d14e4fa894")
-		(property "Reference" "C5"
+		(property "Reference" "C16"
 			(at 97.79 228.6 90)
 			(effects
 				(font
@@ -17508,7 +17508,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C5")
+					(reference "C16")
 					(unit 1)
 				)
 			)
@@ -17524,7 +17524,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d4abf7fa-189e-46f4-8f74-0902732664cf")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR019"
 			(at 139.7 143.51 0)
 			(effects
 				(font
@@ -17574,7 +17574,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR030")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -17590,7 +17590,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5b31f38-010c-4359-80f7-857002215537")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR042"
 			(at 69.85 266.7 0)
 			(effects
 				(font
@@ -17640,7 +17640,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR019")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
@@ -17656,7 +17656,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6b0e55a-3ff0-428c-b842-cefcc85c485e")
-		(property "Reference" "#PWR040"
+		(property "Reference" "#PWR035"
 			(at 72.39 218.44 0)
 			(effects
 				(font
@@ -17706,7 +17706,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR040")
+					(reference "#PWR035")
 					(unit 1)
 				)
 			)
@@ -17721,7 +17721,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d8bc7798-4a9c-4280-8183-58c24399a964")
-		(property "Reference" "R19"
+		(property "Reference" "R9"
 			(at 58.928 119.126 90)
 			(effects
 				(font
@@ -17773,7 +17773,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R19")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -17788,7 +17788,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d9bfed6a-b5a2-49aa-8118-e8fdb15d0c93")
-		(property "Reference" "R10"
+		(property "Reference" "R27"
 			(at 146.05 260.3499 0)
 			(effects
 				(font
@@ -17842,7 +17842,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R10")
+					(reference "R27")
 					(unit 1)
 				)
 			)
@@ -17858,7 +17858,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc0589a4-2c59-4557-8bd2-4502592b3c1f")
-		(property "Reference" "R23"
+		(property "Reference" "R20"
 			(at 74.93 204.4699 0)
 			(effects
 				(font
@@ -17912,7 +17912,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R23")
+					(reference "R20")
 					(unit 1)
 				)
 			)
@@ -17928,7 +17928,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc8b078b-f0ad-4ef0-8eb9-2ac4695ccd8d")
-		(property "Reference" "C15"
+		(property "Reference" "C8"
 			(at 134.62 119.3799 0)
 			(effects
 				(font
@@ -17982,7 +17982,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C15")
+					(reference "C8")
 					(unit 1)
 				)
 			)
@@ -17997,7 +17997,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "df0b466d-d303-4a32-b677-38def96d637c")
-		(property "Reference" "R25"
+		(property "Reference" "R16"
 			(at 46.228 188.214 90)
 			(effects
 				(font
@@ -18051,7 +18051,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R25")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -18066,7 +18066,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e1990e9c-613c-42fb-9719-878352004ff0")
-		(property "Reference" "R8"
+		(property "Reference" "R25"
 			(at 43.18 255.2699 0)
 			(effects
 				(font
@@ -18120,7 +18120,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R8")
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -18136,7 +18136,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e31f91da-14e9-4aae-ba49-257305082ad8")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 152.7175 229.87 0)
 			(effects
 				(font
@@ -18188,7 +18188,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -18204,7 +18204,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4ea10c4-5a16-44ee-9292-6bb2ee68bdc7")
-		(property "Reference" "R4"
+		(property "Reference" "R13"
 			(at 215.9 153.67 90)
 			(effects
 				(font
@@ -18256,7 +18256,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R4")
+					(reference "R13")
 					(unit 1)
 				)
 			)
@@ -18272,7 +18272,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5f7c1d7-a114-487a-8c5a-ef7682ece9ad")
-		(property "Reference" "R18"
+		(property "Reference" "R5"
 			(at 104.14 86.36 90)
 			(effects
 				(font
@@ -18324,7 +18324,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R18")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -18340,7 +18340,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea555fc0-7e84-45c2-b540-e31f99140fbc")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR027"
 			(at 144.78 186.69 0)
 			(effects
 				(font
@@ -18390,7 +18390,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR031")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -18406,7 +18406,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eab10d91-68f9-4926-a463-5d573838a1ee")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR012"
 			(at 78.74 110.49 0)
 			(effects
 				(font
@@ -18457,7 +18457,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR026")
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
@@ -18473,7 +18473,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed4e9c18-9c3f-4c05-a442-3b7713153f8c")
-		(property "Reference" "R14"
+		(property "Reference" "R8"
 			(at 139.7 109.22 90)
 			(effects
 				(font
@@ -18525,7 +18525,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R14")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -18541,7 +18541,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed528ef6-8fa1-42cb-beae-f082f2b268a8")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR039"
 			(at 124.46 252.73 0)
 			(effects
 				(font
@@ -18591,7 +18591,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "#PWR016")
+					(reference "#PWR039")
 					(unit 1)
 				)
 			)
@@ -18607,7 +18607,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f40fac5d-941f-4091-b3be-642ad9bfaa14")
-		(property "Reference" "C14"
+		(property "Reference" "C6"
 			(at 67.31 96.52 90)
 			(effects
 				(font
@@ -18659,7 +18659,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "C14")
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -18674,7 +18674,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f6581957-7305-49c4-af24-43c8adfd8eb7")
-		(property "Reference" "L3"
+		(property "Reference" "L2"
 			(at 49.784 122.682 90)
 			(effects
 				(font
@@ -18726,7 +18726,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "L3")
+					(reference "L2")
 					(unit 1)
 				)
 			)
@@ -18819,7 +18819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6bf9ea3-1ef0-4391-9514-cc3fe1165764")
-		(property "Reference" "J3"
+		(property "Reference" "J5"
 			(at 38.1 114.3 0)
 			(effects
 				(font
@@ -18871,7 +18871,7 @@
 		(instances
 			(project ""
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "J3")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -18887,7 +18887,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe3dab9c-5d1f-4156-a578-856ab5fa2306")
-		(property "Reference" "R17"
+		(property "Reference" "R4"
 			(at 104.14 73.66 90)
 			(effects
 				(font
@@ -18939,7 +18939,7 @@
 		(instances
 			(project "MeshtasticStick"
 				(path "/ac467a0c-84b6-488a-981a-07be5f6550db"
-					(reference "R17")
+					(reference "R4")
 					(unit 1)
 				)
 			)

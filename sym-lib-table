@@ -3,4 +3,6 @@
   (lib (name "E22-900M22S")(type "KiCad")(uri "${KIPRJMOD}/library/E22-900M22S footprint/E22-900M22S.kicad_sym")(options "")(descr ""))
   (lib (name "E22-900M30S")(type "KiCad")(uri "${KIPRJMOD}/library/E22-900M30S footprint/E22-900M30S.kicad_sym")(options "")(descr ""))
   (lib (name "TYPE-C-31-M-12")(type "KiCad")(uri "${KIPRJMOD}/library/TYPE-C-31-M-12 footprint/TYPE-C-31-M-12.kicad_sym")(options "")(descr ""))
+  (lib (name "SPV1040T")(type "KiCad")(uri "${KIPRJMOD}/library/STMicroelectronics SPV1040T/SPV1040T.kicad_sym")(options "")(descr ""))
+  (lib (name "L6924D")(type "KiCad")(uri "${KIPRJMOD}/library/L6924D footprint/L6924D.kicad_sym")(options "")(descr ""))
 )

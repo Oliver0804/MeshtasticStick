@@ -1,11 +1,10 @@
 # MeshtasticStick
-
 ![image](./doc/1.jpg)
 
 ![image](./doc/2.jpg)
 
 
-![image](./doc/ver13d.png)
+![image](./doc/ver_1.png)
 
 1. 支持太陽能（0.3V~5.5V）
 2. 支持寬壓輸入（4.5V~28V）

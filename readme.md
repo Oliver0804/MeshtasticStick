@@ -1,4 +1,6 @@
 # MeshtasticStick
+![image](./doc/pcb.jpeg)
+
 ![image](./doc/1.jpg)
 
 ![image](./doc/2.jpg)

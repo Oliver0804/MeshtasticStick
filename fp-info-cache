@@ -1,4 +1,4 @@
-23779638150119542
+23791760813759011
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -6587,6 +6587,13 @@ board-to-board
 30
 30
 Connector
+PLASTICS1_41829-50
+
+
+0
+3
+2
+Connector
 SpringContact_Harwin_S1941-46R
 7.25mm SMT Multi-directional Spring Contact (T+R), https://cdn.harwin.com/pdfs/S1941R.pdf
 spring contact emi emc shield
@@ -9155,6 +9162,13 @@ DIN 41612 IEC 60603 R
 0
 96
 96
+Connector_DIN
+HRS_DF58-3P-1.2V_21_
+
+
+0
+5
+5
 Connector_Dsub
 DSUB-9_Female_EdgeMount_P2.77mm
 9-pin D-Sub connector, solder-cups edge-mounted, female, x-pin-pitch 2.77mm, distance of mounting holes 25mm, see https://disti-assets.s3.amazonaws.com/tonar/files/datasheets/16730.pdf
@@ -56035,6 +56049,13 @@ Display_7Segment
 10
 10
 Display_7Segment
+7SegmentLED_KW2_562ASD
+7-Segment Display, LTS67x0, http://optoelectronics.liteon.com/upload/download/DS30-2001-355/S6760jd.pdf
+7Segment LED LTS6760 LTS6780
+0
+10
+10
+Display_7Segment
 7SegmentLED_LTS6760_LTS6780
 7-Segment Display, LTS67x0, http://optoelectronics.liteon.com/upload/download/DS30-2001-355/S6760jd.pdf
 7Segment LED LTS6760 LTS6780
@@ -63209,6 +63230,13 @@ solder jumper open
 0
 5
 3
+L6924D footprint
+QFN50P300X300X100-17N
+
+
+0
+17
+17
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -70888,6 +70916,13 @@ CSP 208 0.35
 0
 208
 208
+Package_CSP
+WLCSP-4-X1-WLB0808-4_0.8x0.8mm_P0.4mm
+X1-WLB0909, 0.89x0.89mm, 4 Ball, 2x2 Layout, 0.5mm Pitch, https://www.diodes.com/assets/Datasheets/AP22913.pdf
+CSP 4 0.5
+0
+4
+4
 Package_CSP
 WLCSP-4-X1-WLB0909-4_0.89x0.89mm_P0.5mm
 X1-WLB0909, 0.89x0.89mm, 4 Ball, 2x2 Layout, 0.5mm Pitch, https://www.diodes.com/assets/Datasheets/AP22913.pdf
@@ -88976,6 +89011,13 @@ rotary encoder illuminated switch vertical
 0
 9
 8
+STMicroelectronics SPV1040T
+SOP65P640X120-8N
+
+
+0
+8
+8
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -96711,3 +96753,10 @@ Varistor VF
 0
 2
 2
+footprints
+RPE0009A-MFG
+
+LMR43620MC3RPERQ1 
+0
+17
+9

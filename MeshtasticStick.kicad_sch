@@ -9279,6 +9279,16 @@
 		)
 		(uuid "84a83a35-7dd5-4b55-8b8d-c56cd7fd8d4a")
 	)
+	(text "EN > 1.2V\n"
+		(exclude_from_sim no)
+		(at 33.02 250.444 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c176e12b-d025-4891-af5a-0894f1d5e7fe")
+	)
 	(text "Low Standby Current: 0.01µA (Typ.)\nOperation Temperature Range: -40°C to +85°C"
 		(exclude_from_sim no)
 		(at 148.59 53.848 0)
@@ -19643,7 +19653,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "18K"
+		(property "Value" "43K"
 			(at 43.18 258.064 0)
 			(effects
 				(font
